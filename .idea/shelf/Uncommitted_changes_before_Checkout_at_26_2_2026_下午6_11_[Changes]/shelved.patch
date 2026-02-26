@@ -1,0 +1,66 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"76259be2-a2f6-4891-a7c6-94fc353edebb\" name=\"Changes\" comment=\"change 8 to 9 in feature 1\">\n      <change afterPath=\"$PROJECT_DIR$/comment.txt\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"main\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\">{\n  &quot;lastFilter&quot;: {\n    &quot;state&quot;: &quot;OPEN&quot;,\n    &quot;assignee&quot;: &quot;kars555&quot;\n  }\n}</component>\n  <component name=\"GithubPullRequestsUISettings\">{\n  &quot;selectedUrlAndAccountId&quot;: {\n    &quot;url&quot;: &quot;https://github.com/kars555/git_learning.git&quot;,\n    &quot;accountId&quot;: &quot;5e0d4b20-01ab-46f9-8bbd-06be9d049d2d&quot;\n  }\n}</component>\n  <component name=\"McpProjectServerCommands\">\n    <commands />\n    <urls />\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 8\n}</component>\n  <component name=\"ProjectId\" id=\"3ACGNi43rlU9IQnlLqdrLel7UZG\" />\n  <component name=\"ProjectLevelVcsManager\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"ModuleVcsDetector.initialDetectionPerformed\": \"true\",\n    \"RunOnceActivity.MCP Project settings loaded\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252\": \"true\",\n    \"RunOnceActivity.git.unshallow\": \"true\",\n    \"RunOnceActivity.typescript.service.memoryLimit.init\": \"true\",\n    \"com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1\": \"true\",\n    \"git-widget-placeholder\": \"my\",\n    \"junie.onboarding.icon.badge.shown\": \"true\",\n    \"kotlin-language-version-configured\": \"true\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.tslint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"nodejs_package_manager_path\": \"npm\",\n    \"settings.editor.selected.configurable\": \"org.jetbrains.plugins.github.ui.GithubSettingsConfigurable\",\n    \"to.speed.mode.migration.done\": \"true\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  }\n}]]></component>\n  <component name=\"RecentsManager\">\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$\" />\n    </key>\n  </component>\n  <component name=\"RunManager\">\n    <configuration default=\"true\" type=\"JetRunConfigurationType\">\n      <module name=\"git_learning\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration default=\"true\" type=\"KotlinStandaloneScriptRunConfigurationType\">\n      <module name=\"git_learning\" />\n      <option name=\"filePath\" />\n      <method v=\"2\" />\n    </configuration>\n  </component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.138\" />\n        <option value=\"bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.138\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"76259be2-a2f6-4891-a7c6-94fc353edebb\" name=\"Changes\" comment=\"\" />\n      <created>1770893923889</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1770893923889</updated>\n      <workItem from=\"1770893925174\" duration=\"642000\" />\n      <workItem from=\"1772089101632\" duration=\"2734000\" />\n      <workItem from=\"1772092526406\" duration=\"1347000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"create test1\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1772089260676</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1772089260676</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"modify test 1\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1772089642613</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1772089642613</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"add 1 ,2 ,3\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1772090205793</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1772090205793</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"change 3 to 4 , add 6\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1772090273431</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1772090273431</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"change 1-8\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1772090358582</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1772090358582</updated>\n    </task>\n    <task id=\"LOCAL-00006\" summary=\"no 3\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1772090377676</created>\n      <option name=\"number\" value=\"00006\" />\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1772090377676</updated>\n    </task>\n    <task id=\"LOCAL-00007\" summary=\"add feature 1 on feature 1 branch\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1772092410279</created>\n      <option name=\"number\" value=\"00007\" />\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1772092410279</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"8\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"create test1\" />\n    <MESSAGE value=\"modify test 1\" />\n    <MESSAGE value=\"add 1 ,2 ,3\" />\n    <MESSAGE value=\"change 3 to 4 , add 6\" />\n    <MESSAGE value=\"change 1-8\" />\n    <MESSAGE value=\"no 3\" />\n    <MESSAGE value=\"add feature 1 on feature 1 branch\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"add feature 1 on feature 1 branch\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 7556f52503044eb3a9ed39ad4bb5d65acaa0f931)
++++ b/.idea/workspace.xml	(date 1772100001137)
+@@ -4,8 +4,8 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="76259be2-a2f6-4891-a7c6-94fc353edebb" name="Changes" comment="change 8 to 9 in feature 1">
+-      <change afterPath="$PROJECT_DIR$/comment.txt" afterDir="false" />
++    <list default="true" id="76259be2-a2f6-4891-a7c6-94fc353edebb" name="Changes" comment="other create comment.txt">
++      <change beforePath="$PROJECT_DIR$/comment" beforeDir="false" afterPath="$PROJECT_DIR$/comment.txt" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -56,7 +56,7 @@
+     "RunOnceActivity.git.unshallow": "true",
+     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+-    "git-widget-placeholder": "my",
++    "git-widget-placeholder": "other",
+     "junie.onboarding.icon.badge.shown": "true",
+     "kotlin-language-version-configured": "true",
+     "node.js.detected.package.eslint": "true",
+@@ -162,7 +162,23 @@
+       <option name="project" value="LOCAL" />
+       <updated>1772092410279</updated>
+     </task>
+-    <option name="localTasksCounter" value="8" />
++    <task id="LOCAL-00008" summary="create comment.txt">
++      <option name="closed" value="true" />
++      <created>1772099375057</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1772099375057</updated>
++    </task>
++    <task id="LOCAL-00009" summary="other create comment.txt">
++      <option name="closed" value="true" />
++      <created>1772099440591</created>
++      <option name="number" value="00009" />
++      <option name="presentableId" value="LOCAL-00009" />
++      <option name="project" value="LOCAL" />
++      <updated>1772099440591</updated>
++    </task>
++    <option name="localTasksCounter" value="10" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -187,6 +203,8 @@
+     <MESSAGE value="change 1-8" />
+     <MESSAGE value="no 3" />
+     <MESSAGE value="add feature 1 on feature 1 branch" />
+-    <option name="LAST_COMMIT_MESSAGE" value="add feature 1 on feature 1 branch" />
++    <MESSAGE value="create comment.txt" />
++    <MESSAGE value="other create comment.txt" />
++    <option name="LAST_COMMIT_MESSAGE" value="other create comment.txt" />
+   </component>
+ </project>
+\ No newline at end of file
